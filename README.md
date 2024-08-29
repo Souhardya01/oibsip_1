@@ -10,8 +10,6 @@ This repository contains multiple data analysis projects focusing on Exploratory
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-  - [House Price Prediction](#house-price-prediction)
-  - [Wine Quality Prediction](#wine-quality-prediction)
   - [EDA with Sales Data](#eda-with-sales-data)
 - [Data](#data)
 - [Installation](#installation)
